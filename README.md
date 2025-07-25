@@ -1,1 +1,1 @@
-# javascriptproject7
+# javascriptproject7 This is a Live Character Counter web application built using HTML, CSS, and JavaScript. As users type into the textarea, the app dynamically counts and displays the total number of characters, including spaces. It provides instant feedback, making it useful for tasks like writing tweets, form inputs, or content within character limits. This project demonstrates real-time DOM manipulation and is ideal for beginners learning JavaScript events and interactivity.
